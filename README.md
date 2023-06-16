@@ -1,6 +1,6 @@
 # Desafio 2 do Rodrigo Rahman
 
-A new Flutter project.
+Repositório para armazenar código do desafio do rodrigo rahman.
 
 ## Getting Started
 
